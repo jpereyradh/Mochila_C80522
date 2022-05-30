@@ -1,0 +1,5 @@
+1 - El creador fue Linus Torvalds en 2005 , quien lo creo para poder trabajar en Linux conjuntamente con los desarroladores.
+
+2 - El dueño de Github es Microsoft , quien lo compro en 2018, para acercarse mas a la comunidad de desarrollo de software libre y abierto.
+
+3 - Si, es posible , Github se puede usar en terminal y tambien en otros formatos, como github pages
