@@ -1,0 +1,4 @@
+1. El sistema de control de versiones git lo creo Linus Torvals, creador del sistema operativo Linux. Lo creó para colaborar con la creación de linux.
+2. Actualmente GitHub pertenece a Microsoft. Fue una estrategia para poder pertenecer a la comunidad de desarrolladores, que crecera en numero e importancia, y potenciar la plataforma.
+3. Se puede utilizar la aplicacion de GitHub que se descarga en tu computadora (GitHubSetup). Tambien se puede utilizar la interfaz grafica de Git y otras similares que trabajan con git.
+
