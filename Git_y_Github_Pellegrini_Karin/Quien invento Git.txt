@@ -1,0 +1,1 @@
+Git fue creado originalmente por Linus Torvalds en 2005 para el desarrollo del kernel de Linux.

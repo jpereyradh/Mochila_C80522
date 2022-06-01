@@ -1,0 +1,1 @@
+Se puede subir repositorios a GitHub sin usar la terminal a través de la aplicación GitHub SetUp o similares que no interactúan con una terminal si no con una carpeta de archivos.
