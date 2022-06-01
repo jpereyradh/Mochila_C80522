@@ -1,0 +1,19 @@
+>_ git init // crea el repositorio
+>_ git config -- global usea.name “nombreUsuario” // agrega nuestra identidad
+>_ git config -- global user.email “emailUsuario” // agrega nuestro mail
+>_ git add nombrearchivo // agrega el archivo seleccionado 
+>_ git add . // agrega todos los archivos
+>_ git status // realiza un seguimiento de los estados de los archivos
+>_ git commit -m “descripción resumida del trabajo hecho ” // agregar los archivos del repositorio.
+>_ git log // registra un historial de los cambios del proyecto.
+>_ git log --raw // registro más específico
+>_ git remote add origin https://… (para indicar al repositorio local con qué repositorio remoto se deberá sincronizar)
+>_ git remote -v // para confirmar que se subió
+>_ git push origin main // envía los repositorios nuevos
+>_ git clone https://…repositorio.git // permite crear una copia exacta en la computadora de todos los archivos existentes en el repositorio remoto. Se ejecuta una sola vez, solo cuando no están presentes en la computadora.
+>_ git pull origin main // sirve para actualizar los archivos que ya clonaste anteriormente.
+>_ git branch nombre // crea una nueva rama
+>_ git branch -d nombre // elimina la rama llamada nombre. 
+
+
+
