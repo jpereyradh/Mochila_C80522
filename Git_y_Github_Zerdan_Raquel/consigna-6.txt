@@ -1,0 +1,10 @@
+Quien invento el sistema de control de Git y por que?
+Git es un software de control de versionesdiseñado Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del man por tenim>Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre arch>
+
+Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end.
+2) A quien pertenece actualmente Github y por que?
+Microsoft ha comprado GitHub según Bloomberg. El mayor repositorio de código del mundo es punto de encuentro para millones de desarrolladores, y >De hecho el segmento del desarrollo software está desde hace tiempo muy alineado con un segmento móvil en el que Microsoft apenas tiene participa>
+
+Esa es probablemente otra de las motivaciones de Microsoft, que con la adquisición de GitHub quiere mantener su relevancia en el desarrollo de to>
+
+3) Si hay otras alternativas pero resultan complicadas en su uso./
