@@ -1,0 +1,5 @@
+1 - Lo creo Linus Torvalds en 2005 . Lo creo para posibilitar la ramificación y el etiquetado como procesos de primera importancia
+2- Microsoft es dueño de github . Lo compro para un acercarse a la comunidad más vibrante en el desarrollo de software libre y abierto.
+3- Si, se puede utilizar por github desktop
+
+ 
