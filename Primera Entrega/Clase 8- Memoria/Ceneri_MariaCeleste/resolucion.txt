@@ -1,0 +1,14 @@
+Resogun					0,4395
+Don't Starve				0,5947
+Trine 2: Complete Story			2,6953
+Bound By Flame				5,0781
+Flower					17,5781
+Assassin's Creed IV: Black Flag		21,2000
+Infamous: Second Son			24,0005
+DriveClub				28,8600
+Knack					35,6000
+MLB 14 The Show				37,5000
+Killzone: Shadow Fall SP		38,5000
+Diablo III				41,0000
+	
+total					253,0463
