@@ -1,0 +1,249 @@
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ cd peliculas
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas
+$ cd infantiles
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ mv "el jue*" ../terror 
+mv: cannot stat 'el jue*': No such file or directory
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ mv "el juego del miedo.xls" ../terror
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ mv "rapido y furios.pdf" ../accion titanic.jpg ../romantica
+mv: target '../romantica' is not a directory
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ mv "rapido y furios.pdf" ../accion titanic.jpg ../romanticas
+mv: cannot stat 'rapido y furios.pdf': No such file or directory
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ mv "rapido y furioso.pdf" ../accion titanic.jpg ../romanticas
+mv: cannot stat '../accion': No such file or directory
+mv: cannot stat 'titanic.jpg': No such file or directory
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ mv ../romanticas/accion ../
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ mv ../romanticas/"rapido y furioso.pdf" ../accion 
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ mv ../accion/cars.jpg ../infantiles
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ mv ..accion/"el hexorcista.xls" ../terror
+mv: cannot stat '..accion/el hexorcista.xls': No such file or directory
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ mv ../accion/"el hexorcista.xls" ../terror
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ mv ../accion/"diario de una pasion.js" ../rpmanticas
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ mv ../accion/"diario de una pasion.js" ../romanticas
+mv: cannot stat '../accion/diario de una pasion.js': No such file or directory
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ rm ../rpmanticas
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ cd ../
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas
+$ cd ../
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ ls -A
+cars.jpg  intenzamente.txt
+
+./peliculas/romanticas:
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg   prueba/   titanic.jpg   
+
+./peliculas/romanticas/prueba:
+
+./peliculas/terror:
+'el hexorcista.xls'       'la dama y el bagavundo.png'  'we will rock you.js'
+'el juego del miedo.xls'  'que paso ayer.pdf'           'yo antes de ti.xls'
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ mv ../accion/"diario de una pasion.js" ../romanti
+
+ Session contents restored from 21/5/2022 at 01:18:24 
+
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$
+
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ ls
+'Captura de pantalla 2022-05-22 204720.png'  'gitbash en vscode.txt'  'punto 9.rtf'
+'git bash.txt'                                peliculas/              '~$unto 9.rtf'
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ cd peliculas
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh/peliculas (main)
+$ ls
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh/peliculas (main)
+
+./accion:
+'diario de una pasion.js'   prueba2/  'rapido y furioso.pdf'  'smooth criminal.txt'
+
+./accion/prueba2:
+
+./comedia:
+ it.xls   madagaskar.js  'mision imposible.png'  'orgullo y prejuicio.txt'
+
+./infantiles:
+cars.jpg  intenzamente.txt
+
+./romanticas:
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg   prueba/   titanic.jpg    
+
+./romanticas/prueba:
+
+./terror:
+'el hexorcista.xls'       'la dama y el bagavundo.png'  'we will rock you.js'
+'el juego del miedo.xls'  'que paso ayer.pdf'           'yo antes de ti.xls'
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh/peliculas (main)
+$ cd ../
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ mv ./peliculas/comedia/"mision imposible.png" ./peliculas/romanticas/"los vengadores.js" ./peliculas/accion
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ ls -R
+.:
+'Captura de pantalla 2022-05-22 204720.png'  'gitbash en vscode.txt'  'punto 9.rtf'
+'git bash.txt'                                peliculas/              '~$unto 9.rtf'
+
+./peliculas:
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+./peliculas/accion:
+'diario de una pasion.js'  'mision imposible.png'  'rapido y furioso.pdf'
+'los vengadores.js'         prueba2/               'smooth criminal.txt'
+
+./peliculas/accion/prueba2:
+
+./peliculas/comedia:
+ it.xls   madagaskar.js  'orgullo y prejuicio.txt'
+
+./peliculas/infantiles:
+cars.jpg  intenzamente.txt
+
+./peliculas/romanticas:
+ annabelle.js  'la mascara.js'   pocahontas.jpg   prueba/   titanic.jpg
+
+./peliculas/romanticas/prueba:
+
+./peliculas/terror:
+'el hexorcista.xls'       'la dama y el bagavundo.png'  'we will rock you.js'
+'el juego del miedo.xls'  'que paso ayer.pdf'           'yo antes de ti.xls'
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ mv ./peliculas/terror/"la dama y el bagavundo.png" ./peliculas/romanticas/pocahontas.jpg ./pel
+iculas/comedia/madagaskar.js ./peliculas/infantiles
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ mv ./peliculas/terror/"que paso ayer.pdf" ./peliculas/romanticas/"la mascara.js" ./peliculas/c
+omedia
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ mv ./peliculas/terror/"yo antes de ti.xls" ./peliculas/accion/"diario de una pasion.js" ./peli
+culas/comedia/"orgullo y prejuicio.txt"
+mv: target './peliculas/comedia/orgullo y prejuicio.txt' is not a directory
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ mv ./peliculas/terror/"yo antes de ti.xls" ./peliculas/accion/"diario de una pasion.js" ./peliculas/comedia/"orgullo y prejuicio.txt" ./peliculas/romanticas
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ ls -R
+.:
+'Captura de pantalla 2022-05-22 204720.png'  'gitbash en vscode.txt'  'punto 9.rtf'
+'git bash.txt'                                peliculas/              '~$unto 9.rtf'
+
+./peliculas:
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+./peliculas/accion:
+'los vengadores.js'      prueba2/               'smooth criminal.txt'
+'mision imposible.png'  'rapido y furioso.pdf'
+
+./peliculas/accion/prueba2:
+
+./peliculas/comedia:
+ it.xls  'la mascara.js'  'que paso ayer.pdf'
+
+./peliculas/infantiles:
+ cars.jpg   intenzamente.txt  'la dama y el bagavundo.png'   madagaskar.js   pocahontas.jpg     
+
+./peliculas/romanticas:
+ annabelle.js              'orgullo y prejuicio.txt'   titanic.jpg
+'diario de una pasion.js'   prueba/                   'yo antes de ti.xls'
+
+./peliculas/romanticas/prueba:
+
+./peliculas/terror:
+'el hexorcista.xls'  'el juego del miedo.xls'  'we will rock you.js'
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ mv ./peliculas/comedia/it.xls ./peliculas/romanticas/annabelle.js ./peliculas/terror
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ mv ./peliculas/infantiles/intenzamnete.txt intensamente.txt
+mv: cannot stat './peliculas/infantiles/intenzamnete.txt': No such file or directory
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ mv ./peliculas/infantiles/intenzamnete.txt ./peliculas/infantiles/intensamente.txt
+mv: cannot stat './peliculas/infantiles/intenzamnete.txt': No such file or directory
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ mv ./peliculas/infantiles/intenzamente.txt ./peliculas/infantiles/intensamente.txt
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ mv ./peliculas/infantiles/"la dama y el bagavundo.png" ./peliculas/infantiles/"la dama y el vagabundo.png"
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ mv ./peliculas/infantiles/madagaskar.js ./peliculas/infantiles/madagascar.js
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ mv ./peliculas/terror/"el hexorcista.xls" ./peliculas/terror/"el exorcista.xls"
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ rm ./peliculas/accion/"smooth criminal.txt" ./peliculas/terror/"we will rock you.js"
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ cd peliculas
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh/peliculas (main)
+$ mv ./accion/prueba2/noBorrar.js ./romanticas/prueba
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh/peliculas (main)
+$ cd ../
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ touch camadax.txt
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh (main)
+$ cd peliculas
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh/peliculas (main)
+$ mv ./terror/it.xls ./infantiles/
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh/peliculas (main)
+$ rm ../camadax.txt
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh/peliculas (main)
+$ rm -r ./romanticas/prueba
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/Desktop/Certified tech developer/Introduccion a la informatica/dh/peliculas (main)

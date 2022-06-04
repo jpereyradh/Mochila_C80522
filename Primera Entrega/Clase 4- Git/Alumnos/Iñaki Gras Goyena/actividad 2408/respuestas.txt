@@ -1,0 +1,20 @@
+Preguntas
+1)	MOMENTO 1 PASO 8: ¿Qué paso con el directorio db?
+
+El directorio DH quedo en la carpeta raíz sin ocurrir ningún cambio respecto a él dado que estaba vacio.
+
+
+2)	MOMENTO 2 PASO 6: ¿Se guardo lo importante?
+No se guardó debido a que falto hacer un git add. Antes de hacer el commit - m
+
+
+3)	MOMENTO 4 PASO 1: ¿Esta bien el nombre del commit?
+No estaría bien en primer lugar porque se estaría commiteando todo el proyecto y además porque no especifica detalladamente cuales son los cambios. 
+
+
+4)	MOMENTO 5 PASO 3: ¿Qué hace este paso?
+Este paso deshizo la eliminación del archivo que habíamos hecho antes, restaurándolo a su lugar 
+
+
+5)	MOMENTO 5 PASO 6: ¿Qué pasó acá?
+Se eliminó del proyecto el archivo config.js

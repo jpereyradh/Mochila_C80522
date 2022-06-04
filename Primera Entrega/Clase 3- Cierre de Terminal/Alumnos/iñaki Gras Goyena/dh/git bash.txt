@@ -1,0 +1,215 @@
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ mkdir peliculas
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ mkdir ./peliculas/infantiles accion terror comedia romanticas
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ ls
+accion/  comedia/  peliculas/  romanticas/  terror/
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ cd peliculas
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas
+$ ls
+infantiles/
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas
+$ mkdir comedia accion romanticas terror
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas
+$ ls
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas
+$ cd ../
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ rm accion comedia romanticas terror
+rm: cannot remove 'accion': Is a directory
+rm: cannot remove 'comedia': Is a directory
+rm: cannot remove 'romanticas': Is a directory
+rm: cannot remove 'terror': Is a directory
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ rmdir accion comedia romanticas terror
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ ls
+peliculas/
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ cd infantiles
+bash: cd: infantiles: No such file or directory
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ cd peliculas/infantiles
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ touch intenzamente.txt "el juego del miedo.xls"
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ ls
+'el juego del miedo.xls'   intenzamente.txt
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ touch "rapido y furioso".pdf
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ touch "rapido y furioso.pdf" titanic.jpg
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ ls
+'el juego del miedo.xls'   intenzamente.txt  'rapido y furioso.pdf'   titanic.jpg
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/infantiles
+$ cd ../
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas
+$ cd accion
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/accion
+$ touch "smooth criminal.txt" "diario de una pasion.js" "el hexorcista.xls" cars.jpg
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/accion
+$ ls
+ cars.jpg  'diario de una pasion.js'  'el hexorcista.xls'  'smooth criminal.txt'
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/accion
+$ cd ../
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas
+$ cd terror
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/terror
+$ touch "la dama y el bagavundo.png" "yo antes de ti.xls" "que paso ayer.pdf" "we will rock you.js"
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/terror
+$ ls
+'la dama y el bagavundo.png'  'que paso ayer.pdf'  'we will rock you.js'  'yo antes de ti.xls'
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/terror
+$ cd ../
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas
+$ cd comedia
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/comedia
+$ touch madagaskar.js "orgullo y prejuicio.txt" it.xls "mision imposible.png"
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/comedia
+$ ls
+ it.xls   madagaskar.js  'mision imposible.png'  'orgullo y prejuicio.txt'
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/comedia
+$ cd ../
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas
+$ cd romanticas
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/romanticas
+$ touch pocahontas.jpg annabelle.js "los vengadores.js" "la mascara.js"
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/romanticas
+$ ls
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/romanticas
+$ ls -R
+.:
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/romanticas
+$ cd ../../
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ ls -R
+.:
+peliculas/
+
+./peliculas:
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+./peliculas/accion:
+ cars.jpg  'diario de una pasion.js'  'el hexorcista.xls'  'smooth criminal.txt'
+
+./peliculas/comedia:
+ it.xls   madagaskar.js  'mision imposible.png'  'orgullo y prejuicio.txt'
+
+./peliculas/infantiles:
+'el juego del miedo.xls'   intenzamente.txt  'rapido y furioso.pdf'   titanic.jpg
+
+./peliculas/romanticas:
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg
+
+./peliculas/terror:
+'la dama y el bagavundo.png'  'que paso ayer.pdf'  'we will rock you.js'  'yo antes de ti.xls'
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ mkdir ./peliculas/romanticas prueba
+mkdir: cannot create directory ‘./peliculas/romanticas’: File exists
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ mkdir peliculas/romanticas prueba
+mkdir: cannot create directory ‘peliculas/romanticas’: File exists
+mkdir: cannot create directory ‘prueba’: File exists
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ ls
+ peliculas/  'punto 9.rtf'  '~$unto 9.rtf'
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ mkdir ./peliculas/romanticas prueba
+mkdir: cannot create directory ‘./peliculas/romanticas’: File exists
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ mkdir ./peliculas/romanticas/prueba
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ cd ^C
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ cd ./peliculas/romanticas
+bash: $'\302\203cd': command not found
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh
+$ cd peliculas/romanticas
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/romanticas
+$ mkdir ../accion/prueba2
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/romanticas
+$ ls
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg   prueba/
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas/romanticas
+$ cd ..
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas
+$ ls -R
+.:
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+./accion:
+ cars.jpg  'diario de una pasion.js'  'el hexorcista.xls'   prueba2/  'smooth criminal.txt'
+
+./accion/prueba2:
+
+./comedia:
+ it.xls   madagaskar.js  'mision imposible.png'  'orgullo y prejuicio.txt'
+
+./infantiles:
+'el juego del miedo.xls'   intenzamente.txt  'rapido y furioso.pdf'   titanic.jpg
+
+./romanticas:
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg   prueba/
+
+./romanticas/prueba:
+
+./terror:
+'la dama y el bagavundo.png'  'que paso ayer.pdf'  'we will rock you.js'  'yo antes de ti.xls'
+
+inaki@LAPTOP-KL5OUBRU MINGW64 ~/OneDrive/Escritorio/dh/peliculas
+$ 
