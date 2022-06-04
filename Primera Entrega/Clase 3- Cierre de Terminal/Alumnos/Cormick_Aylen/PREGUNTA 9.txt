@@ -1,0 +1,5 @@
+9. 
+Si, se puede. Comando: mkdir Infantiles Accion Terror Comedia Romanticas
+Si, se puede Comando: touch Intenzamente.txt  ‘El juego del miedo.xls’ ‘Rapido y furioso.pdf’ Titanic.jpg
+mkdir ./Peliculas/Romanticas/Prueba
+mkdir ../Accion/Prueba2
