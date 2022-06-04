@@ -1,0 +1,64 @@
+gama baja intel
+
+Procesador          Core i3 7100
+Placa madre         asrock h110m-hdv r3.0
+Memoria principal   KINGSTON 4GB DDR4 2400 MHz
+Memoria secundaria  Disco Rigido 500gb Blue Wd Western Digital 64mb Mallweb 500gb
+
+gama baja amd
+Procesador          Ryzen 3 2200g
+Placa madre         GIGABYTE B450M DS3H
+Memoria ram		  Memoria RAM Fury Beast DDR4 8GB 1 Kingston
+Memoria secundaria  Disco Rigido 500gb Blue Wd Western Digital 64mb Mallweb 500gb
+
+gama baja
+Procesador          INTEL CELERON G6900 S1700
+Placa madre         GIGABYTE H610M S2H DDR4 S1700
+Memoria ram		  DDR4 4GB 2400 MARKVISION 1.20V
+Memoria secundaria  HDD 1TB SATA3 WD BLUE
+-----------------------------------------------------------
+gama media intel
+
+Procesador          INTEL CORE I5 11400F S/VIDEO
+Placa madre         ASUS PRIME B560M-A(x 1)
+Memoria ram		  8GB DDR4 3200MHZ PATRIOT SIGNATURE LINE
+Memoria secundaria  HD SSD 240GB WD GREEN SATA III 2.5"
+gpu			  GeForce GT 1030 2GD4 LP OC
+
+Procesador          AMD A10 9700
+Placa madre         A320M Asrock
+Memoria ram		  DDR4 16GB 3000 MHz (1x16GB)
+Memoria secundaria  SSD de 240 gb
+gpu		        GEFORCE GTX 1660 SUPER 6GB
+
+Procesador          AMD RYZEN 5 5600X
+Placa madre         B550 PRO
+Memoria ram		  8GB DDR4 2666MHZ x 2
+Memoria secundaria  HDD 1TB SATA III
+gpu		        GEFORCE GTX 1660 SUPER 6GB
+---------------------------------------------------
+gama alta intel
+
+Procesador         CORE I7 10700K
+Placa madre        ASROCK Z590 OC FORMULA DDR4 S1200
+Memoria ram		 16GB (2X8GB) DDR4 3733 GIGABYTE AORUS RGB DEMO KIT
+Memoria secundaria 1TB PNY CS3040 M2 NVME GEN4 CON DISIPADOR
+gpu		       GEFORCE RTX 3080 10GB AFOX MINING NO-LHR
+
+
+gama alta amd
+
+Procesador         Amd Ryzen 7 3800xt
+Placa madre         Madre ASRock A320M-HDV R4.1
+Memoria ram		 16GB (2X8GB) DDR4 3733 GIGABYTE AORUS RGB DEMO KIT
+Memoria secundaria 1TB PNY CS3040 M2 NVME GEN4 CON DISIPADOR
+gpu		       GEFORCE RTX 3080 10GB AFOX MINING NO-LHR
+
+
+gama alta
+
+Procesador          INTEL CORE I9 12900K S/COOLER S1700(x 1)
+Placa madre         GIGABYTE Z690 AORUS MASTER DDR5(x 1)
+Memoria ram		  32GB (2X16GB) DDR5 5200 GIGABYTE AORUS(x 1)
+Memoria secundaria  HD SSD 2TB GIGABYTE AORUS PCIE CARD 3D GEN4(x 1)
+gpu		        GEFORCE RTX 3080 10GB AFOX MINING NO-LHR
