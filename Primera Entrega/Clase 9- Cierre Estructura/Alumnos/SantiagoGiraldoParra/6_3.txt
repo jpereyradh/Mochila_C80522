@@ -1,0 +1,61 @@
+Gama Baja Intel
+Procesador: Core i3 7100
+Mother:Mother Asus H410M Socket 1200
+RAM:Memoria DDR4 4Gb
+Memoria secundaria: Disco duro interno Toshiba MQ01ABF Series MQ01ABF050 500GB
+
+Gama Baja AMD
+Procesador: Ryzen 3 2200g
+Mother: Gigabyte A520m H Amd Ryzen Am4
+RAM: Memoria DDR4 4Gb
+Memoria secundaria: Disco duro interno Toshiba MQ01ABF Series MQ01ABF050 500GB
+
+Gama Baja a criterio propio
+Procesador: Intel Celeron 5905
+Mother: Asus H410M Socket 1200
+RAM:Memoria DDR4 4Gb
+Memoria secundaria: Disco duro interno Toshiba MQ01ABF Series MQ01ABF050 500GB
+
+Gama Media Intel
+Procesador: Intel CoffeeLake Core I5 9400 2.9 ghz
+Mother: Motherboard: B560M DS3H V2 GIGABYTE s1200
+RAM: Memoria DDR4 8G
+Memoria Secundaria: Disco duro interno Western Digital WD10SPZX 1TB 
+
+Gama Media Amd
+Procesador:Procesador Amd Ryzen 5 5500 Am4 6 Nucleos
+Mother: A320M Asrock
+RAM: Memoria DDR4 8G
+Memoria Secundaria: Disco duro interno Western Digital WD10SPZX 1TB 
+
+Gama Media:
+Procesador:Procesador Intel Core i5-12400F BX8071512400F de 6 núcleos y 4.4GHz
+Mother: MSI MAG B365M Mortar
+RAM: Memoria DDR4 8G
+Memoria Secundaria: Disco duro interno Western Digital WD10SPZX 1TB 
+
+Gama Alta Intel:
+Procesador: Core i7-10700
+Mother: MOTHER GIGABYTE Z590 AORUS ELITE AX 1200
+RAM: Memoria DDR5 32G
+Memoria Secundaria: Disco duro interno Western Digital WD10SPZX 1TB 
+SAMSUNG 970 EVO Plus SSD de 2 TB
+GPU:Nvidia RTX 3090
+
+Gama Alta Amd:
+Procesador:Ryzen 7 3800xt
+Mother:Gigabyte B550 Aorus Elite
+RAM: Memoria DDR5 32G
+Memoria Secundaria: Disco duro interno Western Digital WD10SPZX 1TB 
+SAMSUNG 970 EVO Plus SSD de 2 TB
+GPU:Nvidia RTX 3090
+
+Gama alta criterio propio:
+Procesador: Ryzen 9 5950X
+Mother:Gigabyte B550 Aorus Elite
+RAM: Memoria DDR5 32G
+Memoria Secundaria: Disco duro interno Western Digital WD10SPZX 1TB 
+SAMSUNG 970 EVO Plus SSD de 2 TB
+GPU:Nvidia RTX 3090
+
+Message #general
