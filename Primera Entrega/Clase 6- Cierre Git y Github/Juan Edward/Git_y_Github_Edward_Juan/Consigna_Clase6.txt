@@ -1,3 +1,24 @@
 a. ¿Quién inventó el sistema de control de versión Git y por qué?
+Era el mes de abril del año 2005. Linus Torvalds, el creador del kernel Linux necesitaba una herramienta que pudiera gestionar mejor el flujo de trabajo de la enorme comunidad creciente que contribuía al código de Linux.
+
+Así que se retiró durante una semana, estuvo trabajando y creó el código desde cero de una nueva herramienta. Un 7 de abril de 2005 se publicó el auncio del código de git y se dió a conocer esta gran herramienta que todo desarrollador debe conocer y manejar.
+
+Linus Torvalds creó esta herramienta como medio de gestionar parches y colaboraciones en el código del kernel Linux. Liberó el código que había creado como software libre y una vez que la herramienta estaba en marcha, cedió el control del código de la propia herramienta a Junio Hamano y siguió centrándose en Linux su proyecto principal.
+Velocidad
+Diseño sencillo
+Fuerte apoyo al desarrollo no lineal (miles de ramas paralelas)
+Completamente distribuido
+Capaz de manejar grandes proyectos como el núcleo de Linux de manera eficiente (velocidad y tamaño de los datos)
+Desde su nacimiento en 2005, Git ha evolucionado y madurado para ser fácil de usar y aún así conservar estas cualidades iniciales. Es tremendamente rápido, muy eficiente con grandes proyectos, y tiene un increíble sistema de ramas (branching) para desarrollo no lineal 
+
 b. ¿A quién pertenece actualmente Github y por qué?
+Propietario:
+Microsoft
+GitHub Inc.
+Microsoft
+En 2018 (4 de junio de 2018 - 26 de octubre 2018), Microsoft anunció y compró respectivamente la compañía por un importe de más de 7000 millones de dólares4​.
+
+El 28 de julio de 2020 GitHub hizo pública su hoja de ruta donde da a conocer todos los nuevos avances y los desarrollos futuros que prepara esta plataforma
+
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si se puede por medio de la aplicación "GitHubSetup", hay que loggearse con las credenciales de github y para subir o actualizar repositorios se puede hacer indicando las rutas desde la aplicación.

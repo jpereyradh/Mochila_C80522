@@ -1,6 +1,0 @@
-AMD Ryzen 5 3600 =	Matilda	
-
-AMD A8 9600	 =	Hermano mayor
-
-Intel I3 3230	 =	Marcelo
-
