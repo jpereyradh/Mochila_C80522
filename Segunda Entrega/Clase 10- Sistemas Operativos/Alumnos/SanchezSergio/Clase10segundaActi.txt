@@ -1,0 +1,7 @@
+1)​ Se caracteriza por ofrecer una experiencia de escritorio liviana y amigable con el usuario novato, por su facilidad de uso y por el poco consumo de recursos
+2) Es OpenSource, pero se puede hacer una donacion
+3)Para versio de 64bits se necesitan 768 de RAM, disco duro de 8GB, resolucion VGA 1024x768
+4)Con la combinacion de teclas  Ctrl+Atl+T
+5)Si, se pueden instalar. 
+6)No trae juegos instalados
+
