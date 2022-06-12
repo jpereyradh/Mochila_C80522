@@ -1,0 +1,10 @@
+pvz	2
+cod	49,8
+sf3	78,2
+nfs	121
+dri	491,4
+msa	663
+BuD	682
+mae	752
+ctt	834
+pes	975
