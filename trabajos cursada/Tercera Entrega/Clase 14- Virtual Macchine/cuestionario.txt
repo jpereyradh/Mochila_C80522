@@ -1,0 +1,5 @@
+)El leguaje Lau tiene el tipo de ejecucioon interpretado al igual que el lenguaje R
+2) R se utiliza para el analisios de datos, en el caso Lua es un leguaje multiplataforma que se utiliza en aplicaciones
+3)R tiene su propia plataforma que incluye una consola, editor de sintaxis que apoya la ejecución de código, así como herramientas para el trazado, 
+la depuración y la gestión del espacio de trabajo, uno de los framework es Shiny. En el caso de Lua contamos con varios IDEs para su desarrollo como Visual Studio Code, Emacs, Vim entre otros. Y framework
+Luart
