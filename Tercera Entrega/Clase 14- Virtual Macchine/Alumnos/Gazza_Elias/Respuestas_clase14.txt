@@ -1,0 +1,73 @@
+C
+● ¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje? 
+	C necesita compilador.
+● ¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+	Está orientado a la implementación de sistemas operativos, particularmente UNIX. Se utiliza para crear software y aplicaciones.
+● ¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una 
+librería o framework famoso del mismo.
+	Visual Studio Code
+	Eclipse
+	CodeLite
+	CLion
+	Framework: APR, OpenGL
+● Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación 
+matemática: 
+○ x = 4
+○ y = 5 
+○ z = x + y 
+○ mostrar por pantalla z
+
+<----Codigo---->
+#include <stdio.h>
+
+int main() {
+    // variable definition and asssing values
+    int x=4;
+    int y=5;
+    int z=x+y;
+    
+    printf("Value of z is %d\n", z);
+    return 0;
+}
+<----Codigo---->
+
+● Opcional: Crea un código que te parezca interesante o que quieras 
+compartir con tus compañeros.
+
+JAVA
+● ¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje? 
+	Java es un lenguaje particular porque es compilado, pero es compilado a un lenguaje intermedio llamado bytecode, que después es interpretado.
+● ¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+	Se utiliza para codificar aplicaciones web en la parte del backend.
+● ¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una 
+librería o framework famoso del mismo.
+	Eclipse
+	IntelliJ
+	NetBeans
+	Framework: Spring, Hibernate, Blade, DropWizard
+● Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación 
+matemática: 
+○ x = 4
+○ y = 5 
+○ z = x + y 
+○ mostrar por pantalla z
+
+<----Codigo---->
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        int x = 4;
+        int y = 5;
+        int z=x+y;
+
+        System.out.println("este es le resultado= " + z);
+    }
+}
+<----Codigo---->
+
+● Opcional: Crea un código que te parezca interesante o que quieras 
+compartir con tus compañeros.
