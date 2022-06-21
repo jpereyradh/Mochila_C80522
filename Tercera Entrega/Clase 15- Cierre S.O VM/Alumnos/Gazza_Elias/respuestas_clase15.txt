@@ -1,0 +1,8 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+Los lenguajes de programación pueden usarse en cualquier sistema oporativo. Podemos utilizar un editor de textos y escribir código base en cualquiera de ellos. Para poder ejecutar dicho código, necesitamos compilarlo y que pase a estar en código máquina. La compilación, esa traducción del lenguaje de programación al lenguaje de máquina es máquina-específico. Se compila para la arquitectura y SO de la máquina que compila. Por esa razón, si queremos pasar el código ejecutable a una máquina que tenga otro SO, este no va a funcionar porque la máquina no entendería las instrucciones que debe seguir.
+
+¿Qué tipo de máquina virtual es virtualBox?
+VirtualBox permite crear máquinas virtuales del tipo sistemas, las que levantan todo un sistema operativo. El otro tipo de máquinas virtuales se llaman de proceso.
+
+Si tengo instalada más de una máquina virtual y una se rompe, ¿esto afecta a las demás? ¿Por qué?
+No, una máquina virtual no afecta a la otra porque son virtualizadas y compartimentalizadas. Esta también sería una ventaja desde el punto de vista de la seguridad. Si un virus afecta una VM, esto no afecta al host.
