@@ -1,0 +1,7 @@
+1 - Ip publica : 24.232.235.7 
+2 - Ip privada : 192.168.0.87
+  - Mascara de subred : 255.255.255.0
+3 - Direccion MAC : A8-A1-59-31-9E-48
+4 - Las ip que tengo son dinamicas , IPV4 
+5 - La marca de la placa de red es ASRock Incorporation .
+
