@@ -1,0 +1,37 @@
+C:\Users\57310>ipconfig
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : tigoune.com.co
+   Dirección IPv6 . . . . . . . . . . : 2800:e2:2480:2a23::3
+   Dirección IPv6 . . . . . . . . . . : 2800:e2:2480:2a23:88bc:8ca1:27b4:12f2
+   Dirección IPv6 temporal. . . . . . : 2800:e2:2480:2a23:384c:649d:39da:f438
+   Dirección IPv6 temporal. . . . . . : 2800:e2:2480:2a23:610a:c2c7:60cb:8032
+   Vínculo: dirección IPv6 local. . . : fe80::88bc:8ca1:27b4:12f2%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.63
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::e288:5dff:fed4:90ab%7
+                                       192.168.1.254
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 3:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet Conexión de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
