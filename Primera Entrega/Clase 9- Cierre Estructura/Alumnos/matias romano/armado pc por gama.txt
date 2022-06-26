@@ -1,0 +1,106 @@
+
+---------------------------------------------
+---------------------------------------------
+Gama baja
+---------------------------------------------
+---------------------------------------------
+
+gama baja intel:
+
+procesador: core i3 7100
+placa madre: mother gibabyte GA H110M H
+memoria principal: Memoraria RAM 4GB 1 markvision MVD44096MLD-24
+memoria secundaria: Disco duro interno Toshiba MQ1ABF series MQ01ABF050 500GB 
+
+---------------------------------------------
+
+gama baja AMD:
+
+Procesador: Ryzen 3 2200g
+placa madre: motherboard Gigabyte A320m-h Amd Ryzen 1000,2000,3000
+memoria ram: Memoria RAM 4GB 1 Markvision MVD44096MLD-24
+memoria secundaria: disco duro Toshiba MQ01ABF series MQ01ABF050 500GB
+
+
+---------------------------------------------
+
+Gama baja armado libre:
+
+procesador: Intel core i3 10100F 4.3GHz Turbo 1200 Comet Lake
+placa madre: Mother Gigabyte H510M H M-ATX S1200
+memoria principal: memoria Adata DDR4 4GB 2666MHz value
+memoria secundaria: Disco Solido SSD Team 128GB GX2 530MB/s
+
+---------------------------------------------
+---------------------------------------------
+Gama media
+---------------------------------------------
+---------------------------------------------
+
+gama media intel
+
+procesador: Intel i5 8400 GHZ
+placa madre: Gigabyte H310M DS2
+memoria secundaria: RAM DDR4 - 8GB 2666 MHZ CRUCIAL
+GPU: GeForce GT 1030 2GD4 LP OC
+
+
+---------------------------------------------
+
+Gama media AMD:
+
+Procesador: AMD RYZEN 5 PRO 2600 3.90 GHZ AM4 OEM
+placa madre: A320M Asrock
+memoria principal: RAM DDR4 - 8 GB 3200MHZ T-force vulcan Z red
+memoria secundaria: disco solido SSD team 512gb GX2 530 MB/S
+GPU: Placa de video XFX radeon RX 6500 XT black 4gb GDDR6 Speedster QICK210
+
+---------------------------------------------
+
+Gama media armado libre:
+
+procesador: intel core i5 10400 4.3ghz turbo 1200 comet lake
+Placa madre: Mother ASUS PRIME Z590-P ATX S1200 10 TH/11TH GEN
+memoria principal: geil ddr4 16gb (2x8gb) 3200mhz evo spear Phantom gaming edition
+memoria secundaria: disco solido SSD kingston 480GB A400 500MB/s2
+GPU: Placa de video ASUS GEFORCE gtx 1660 ti 6gb gddr6 tuf gaming evo
+
+---------------------------------------------
+---------------------------------------------
+Gama alta 
+---------------------------------------------
+---------------------------------------------
+
+gama alta intel 
+
+procesador: core i7- 10700
+placa madre: Gigabyte z590 aorus ax rev 1.0 s1200
+memoria principal: patriot ddr4 16gb (2x8gb) 3600mhz viper steel rgb
+memoria secundaria: disco solido ssd gigabyte 1tb 520mb/s sata 6gb/s
+GPU: placa de video zotac geforce rtx 3070 ti 8gb gddr6x trinity
+
+---------------------------------------------
+
+gama alta AMD:
+
+procesador: amd ryzen 7 3800xt
+placa madre: asrock b450m steel legend
+memoria principal: geil ddr4 16gb (2x8gb) 3200mhz 
+memoria secundaria: disco solido ssd kingston 960gb a 400 500mb/s
+GPU: XFX radeon rx 6700 xt 12gb gddr6 
+
+gama alta armado libre:
+
+procesador: core i7 12700kf 5.0 ghz turbo socjet 1700.
+placa madre mother asus rog maximus z690 apex
+memoria principal: G. skill trident z 5 32gb (2x16) ddr5 6000 mhz
+memoria secundaria: disco solido ssd m.2 wd 2tb sn850 7000mb/s nvme pcle gen4
+gpu: placa de video asus geforce rtx 3090 24gb gddr6x tuf gaming 0c
+
+
+
+
+
+
+
+
