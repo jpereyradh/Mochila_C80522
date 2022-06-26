@@ -1,0 +1,56 @@
+Gama Baja Intel
+Procesador: Core i3 7100
+Placa Madre: Mother Asus H410M Socket 1200
+Ram: DOR4 4gb
+Memoria Secundaria: Disco duro interno Toshiba MQ01ABF Series MQ01ABF050 500GB
+
+Gama Baja AMD
+Procesador:Ryzen 3 2200g
+Motherboard: Gigabyte A520m H Amd Ryzen Am4
+Ram: DOR4 4gb
+Memoria Secundaria: Disco duro interno Toshiba MQ01ABF Series MQ01ABF050 500GB 
+
+Gama Baja Libre Criterio
+Procesador: Intel Celeron 5905
+Mother: Mother Asus H410M Socket 1200
+Ram: DOR4 4gb
+Memoria Secundaria: Disco duro interno Toshiba MQ01ABF Series MQ01ABF050 500GB
+
+Gama Media Intel
+Procesador: Intel CoffeeLake Core I5 9400 2.9 ghz
+Mother:B560M DS3H V2 GIGABYTE s1200
+Ram: DOR4 8gb
+Memoria Secundaria: Disco duro interno western Digital 1tb
+
+Gama Media AMD
+Procesador: Ryzen 5 5500
+Mother:A 320M Asrock
+Ram:DOR4 8gb
+Memoria Secundaria: Disco duro interno western Digital 1tb
+
+Gama Media Libre Criterio
+Procesador: Procesador Intel Core I5 6 núcleos y 4.4 ghz
+Mother: MSI MAG B365M Mortar
+Ram:DOR4 8gb
+Memoria Secundaria: Disco duro interno western Digital 1tb
+
+Gama Alta Intel: 
+Procesador: Core I7 - 10700
+Mother:GIGABYTE Z590 AORUS ELITE AX 1200
+Ram: DDRS 32gb 
+Memoria Secundaria: Disco duro interno western Digital 1tb- Disco sólido interno Crucial CT2000BX500SSD1 2TB
+GPU: Nvidia RTX 3090
+
+Gama Alta AMD:
+Procesador: Amd ryen 3800xt
+Mother:MSI X570S TOMAHAWK MAX WIFI AM4
+Ram: DDRS 32gb 
+Memoria Secundaria: Disco duro interno western Digital 1tb- Disco sólido interno Crucial CT2000BX500SSD1 2TB
+GPU: Nvidia RTX 3090
+
+Gama Alta Libre Criterio
+Procesador: Ryzen 9 5950x
+mother: MSI X570S TOMAHAWK MAX WIFI AM4
+Ram: DDRS 32gb 
+Memoria Secundaria: Disco duro interno western Digital 1tb- Disco sólido interno Crucial CT2000BX500SSD1 2TB
+GPU: Nvidia RTX 3090
