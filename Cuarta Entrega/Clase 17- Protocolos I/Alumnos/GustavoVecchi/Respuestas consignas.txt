@@ -1,0 +1,21 @@
+
+Para esto cada alumno y alumna en mesa de trabajo deberá investigar qué direcciones ip y mac tiene.
+
+Ver imagenes adjuntas.
+
+
+Dadas nuestras direcciones IP y las máscaras de red, 
+
+¿ La IP pública y privada de qué clase son ? 
+
+Mi IP privada es 192.168.0.27 por lo que es de clase C.
+Mi IP publica es 152.169.xxx.96 por lo que es de clase B.
+
+
+¿ Qué información puedo obtener de la dirección MAC? , vamos a acceder a 
+https://macvendors.com/ y verificar que marca de placa de red tenemos.
+
+placa Red 88AE1DCD8DDF COMPAL INFORMATION (KUNSHAN) CO., LTD.
+placa WIFI 002682D3FB86 Gemtek Technology Co., Ltd.
+
+
