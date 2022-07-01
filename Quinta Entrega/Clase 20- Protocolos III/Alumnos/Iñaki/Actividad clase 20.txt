@@ -1,0 +1,38 @@
+1) mi ip publica: 181.24.196.9
+geolocalizacion: San Miguel, Buenos Aires.
+
+2) En opera con vpn activada 
+mi ip es: 181.24.196.9
+geolocalizacion: Estados Unidos
+
+3)En brave con tor mi ip es 107.189.28.84
+y la geolocalizacion no figura
+
+4) Si, utilizando la vpn se puede ver el video de youtube
+
+5)velocidad en navegador sin vpn, ni tor:
+ DESCARGA Mbps
+95.70
+ SUBIDA Mbps
+62.27
+Ping ms  13
+
+6)Velocidad de navegador opera con vpn:
+ DESCARGA Mbps
+0.91
+ SUBIDA Mbps
+7.49
+Ping ms  289
+
+7)Velocidad de navegador brave con tor:
+ DOWNLOAD Mbps
+4.48
+ UPLOAD Mbps
+0.74
+Ping ms  659  1064  2170
+Connections
+Multi
+Vodafone Ghana
+Accra
+
+109.70.100.82
