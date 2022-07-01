@@ -1,0 +1,34 @@
+ip publica: 200.91.35.84
+ip vpn : 77.111.246.40 geolocalizacion: United States cerca de wichita
+ip tor: 109.70.100.30 geolocalizacion: Anonymous Proxy
+
+Las ip publicas son distintas, Porque la vpn y la red tor se encargan de ocultar la ip publica utilizando cifrado de extremo a extremo.
+
+Sin VPN no puedo ver el video porque no esta habilitado para ser reproducido en mi pais, sin embargo con VPN al conectarme de una ip que se encuentra en EEUU puedo ver el video ya que para esa zona si esta habilitado.
+
+Utilizando TOR no pudimos localizar la IP, es totalmente anonima.
+
+Velocidades:
+SIN VPN:  DESCARGA Mbps 95.79
+                   SUBIDA Mbps 9.12 
+	idle latency: 4
+	latencty descarga: 5
+	latencty subida: 563
+CON VPN: DESCARGA Mbps 83.52
+                    SUBIDA Mbps 9.28
+	 idle latency: 200
+	 latencty descarga: 205
+	 latencty subida: 729
+CON TOR: DESCARGA Mbps 9.09
+                   SUBIDA Mbps 5.24 
+	idle latency: 500
+	latencty descarga: 652
+	latencty subida: 707
+
+Las velocidades de los test son diferentes, creo que es por el desvio que realiza la VPN  para ocultar nuestra ip y utilizar otra de algun otro punto .
+y en la red TOR es mucho mas lenta por las disntitas paradas que realiza dentro de su red para encriptar y desencriptar la informacion en los distintos nodos ,se realiza un minimo de 3 veces.
+
+El ping es el tiempo que tarda en enviarse un paquete dentro de la red. Esto se mide en milisegundos y mientras menor sea, mejor.
+
+El ping varia entre las diferentes opciones por la distancia y la velocidad de conexion que tiene la VPN.
+En la red TOR se ralentiza aun mas por el tiempo que lleva encriptar y desencriptar en los nodos de la misma.
