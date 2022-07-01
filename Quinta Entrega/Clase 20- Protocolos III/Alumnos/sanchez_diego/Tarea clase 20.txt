@@ -1,0 +1,21 @@
+Opera sin VPN:
+	subida 20
+	bajada 20
+	ping 16/152/148
+
+Opera con VPN:
+	subida 1
+	bajada 10
+	ping 202/200/206
+
+Tor:
+	subida 3
+	bajada 4
+	ping 480/825/0
+
+Los valores son distintos y aumentan desde no VPN hasta TOR como mas lento, entiendo que debido a que mayor seguridad provee.
+
+El ping tambien varia haciendose mas grande a medida que nos movemos hacia Opera VPN y mayor de todos es TOR.
+
+IPs:
+Las IPs son distintas en todos los casos, siendo TOR imposible geolocalizarlo
