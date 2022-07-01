@@ -1,0 +1,87 @@
+https://www.cual-es-mi-ip.net
+
+Publica :	Tu dirección IP es 186.18.221.248
+Proveedor de Internet	Pais	Proxy
+TeleCentro	Argentina	no
+
+Opera : 	ip es Tu dirección IP es 77.111.246.40 
+Proveedor de Internet	Pais	Proxy
+Opera Mini Proxy	United States	no
+
+
+
+Thor : 		Tu dirección IP es 192.42.116.25
+Proveedor de Internet	Pais	Proxy
+SURF B.V.	Anonymous Proxy	no
+
+¿Las ip públicas son las mismas?
+No, son diferentes
+
+ ¿por qué?
+porque son diferentes isp
+
+Sin utilizar la VPN puedes ver el siguiente video? }
+No se puede ver
+
+Ahora activala e intenta verlo,
+¿que es lo que sucedió?
+se ve el video
+
+¿Por qué?
+Por la geolocalizacion
+
+Utilizando Tor ¿pudimos localizar la IP ?
+No
+
+
+-Opera sin VPN Speedtest
+
+ID de resultado 13351300710
+ DESCARGA Mbps
+114.44
+ SUBIDA Mbps
+30.41
+Ping ms  
+Latencia Inactiva 	22  
+Latencia de bajada	33   
+Latencia de subida	81
+
+-Opera con VPN
+
+ DESCARGA Mbps
+1.33
+ SUBIDA Mbps
+5.88
+Ping ms      
+
+Latencia Inactiva   	333
+Latencia de bajada  	386
+Latencia de subida	364
+
+-Thor
+ Download Mbps
+19.08
+Upload Mbps
+5.19
+Ping ms 
+Latencia Inactiva   	640
+Latencia de bajada  	558
+Latencia de subida	--
+
+
+
+¿Las velocidades en los test son diferentes?
+si, son diferentes
+
+¿Por qué crees que sucede esto?
+Porque la conexion no es directa, ya que los enrutamientos son distintos
+
+¿Que significa el valor del ping?
+Es el tiempo que tarda en viajar el paquete de ir y volver
+
+El valor del ping, ¿varia entre las diferentes opciones? 
+El valor del ping no es directo
+
+¿Por qué?
+Y porque segun donde tenemos una ip cambiar la distancia con nuestro servidor 
+y por eso es mas lento en tor y con vpn.
