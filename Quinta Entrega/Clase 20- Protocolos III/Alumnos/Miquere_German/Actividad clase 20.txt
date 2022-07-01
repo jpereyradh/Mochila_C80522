@@ -1,0 +1,10 @@
+opera vpn:77.111.246.40. Esta en estados unidos
+vpn en chrome:186.127.7.78. Esta en argentina
+tor: 185.220.102.245. La ubicacion es anonima
+La velocidad es mas lenta en los test porque la coneccion no es directa. Y porque segun donde tenemos una ip cambiar la distancia con nuestro servidor y por eso es mas lento en tor y con vpn.
+Al realizar es test de internet en tor solo tengo 3 gb de subida y 15 gb de bajada y el ping es de 640 ms
+Las diferentes ip publicas son diferentes porque son diferentes servidores.
+Al realizar el test sin tor ni vpn mi velocidad de subida es de 32gb y de bajda es de 313gb.
+El valor del ping es la cantidad de tiempo que tardan en enviarse y recibirse los paquetes.
+El video con la vpn no se puede mirar porque en estados unidos ese video no se puede ver por la geolocalizacion.
+En argentina pudimos mirar el video porque es diferente la geolocalizacion.
