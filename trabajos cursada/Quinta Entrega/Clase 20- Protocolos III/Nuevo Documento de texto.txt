@@ -1,0 +1,71 @@
+En Opera (o cualquier browser sin VPN) debemos consultar nuestra dirección IP 
+pública y anotar. 
+
+206.0.117.203
+
+En Opera con VPN activada debemos consultar nuestra ip y consultar su 
+geolocalización (podemos hacerlo desde la página cual es mi IP) y anotar.
+
+77.111.246.40
+ 
+Con Tor y su red activada, debemos consultar nuestra ip y consultar la 
+localización de la misma. 
+
+156.146.34.193
+
+¿Las ip públicas son las mismas? ¿por qué?
+
+no son las mismas, ya que la vpn da mayor proteccion a la vpn para no ser rastreada
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, 
+¿que es lo que sucedió?¿Por qué?
+
+no se puede ver el video porque tiene restriccion por el pais
+en opera con vpn activado demoro mucho pero el video se pudo ver 
+con tor no me dejo ver el video 
+
+
+Utilizando Tor ¿pudimos localizar la IP ? 
+con tor se localizo la vpn como proveniente de japon
+
+
+En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el 
+ping, anotar estos valores.
+
+opera sin vpn
+37.72 mbps de bajada
+1.15 mbps de subida
+25 latencia
+202 latencia de bajada
+48 latenciad esubida 
+
+
+En Opera con VPN activada debemos consular nuestra velocidad de subida, 
+bajada y el ping, anotando estos valores. 
+
+DOWNLOAD TEST ERROR
+A socket error occurred during the download test. A firewall could be blocking the connection or the server might be having some issues. Please try again later.
+
+
+Con Tor y su red activada, debemos consultar nuestra velocidad de subida, 
+bajada y el ping, anotando estos valores.
+
+0.76 mbps de bajada
+0.74 mbps de subida
+630 latencia
+2210 latencia de bajada
+-- latenciad esubida
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+puede ocurrir que esté demasiado lejos los cervidores o Pueden estar repartidos por cualquier parte del mundo y, según donde nos encontremos, puede ser mejor una opción que otra
+
+¿Que significa el valor del ping?
+
+El ping es una unidad de medida que sirve para medir la latencia
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+Una VPN aumenta su ping porque agrega pasos adicionales al tráfico de Internet que llega a su destino, lo que lo hace más largo y complicado.
+
+
