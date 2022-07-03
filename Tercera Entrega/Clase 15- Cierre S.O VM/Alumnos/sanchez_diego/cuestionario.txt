@@ -1,0 +1,3 @@
+Los sistemas operativos soportan muchos lenguajes, pero no todos, y por el otro lado los lenguajes estan diseniados para adaptarse a la mayor cantidad de sistemas posibles, pero pueden existir diferencias entre sistemas que no permitan correr ciertos lenguajes.
+VBox es un sistema tipo 2 que necesita un sistema operativos host para correr, los tipo 1 corren directamente sobre el hardware.
+Las maquinas virtuales tienen la ventaja de no afectar ni el sistema operativo del host, ni otras maquinas virtuales si las hubiera instaladas
