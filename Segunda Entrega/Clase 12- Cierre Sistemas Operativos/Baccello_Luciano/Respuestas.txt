@@ -1,0 +1,19 @@
+1- ¿Que es un usuario root en Linux?
+Se conoce como usuario root en Linux al superusuario, es decir a la cuenta que tiene privilegios de superusuarios. Eso significa que puede escribir y leer cualquier tipo de archivos en el sistema, realizar cualquier accion, cambiar configuraciones del sistema, instalar y remover software, y actualizar el sistema operativo o firmware.
+
+2- ¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+Ubuntu le confiere privilegios de administrador al usuario que instaló el sistema. Por eso, para correr comando que necesitan privilegios especiales te pide la contraseña del usuario (el que instaló el SO). Si queremos que otro usuario también tenga esos privilegios, hay que añadir su cuenta de usuario al grupo sudo.
+
+
+3- ¿Cuáles son los procesos típicos de Linux?¿Cómo identificarlos?
+Un proceso es un programa en ejecución. Cada proceso es creado cuando se ejecuta un programa. Por eso se puede llamar al proceso como una instancia que se está corriendo de un programa en ejecución. Los procesos pueden correrse en primer plano o en el fondo.
+Para ver los procesos en ejecución, tenemos que correr el comando $ps (process status)
+Existen 5 tipos de procesos:
+-Deamon process: Estos son procesos del sistema que corren en el background. Se ven con un "?" en la columna TTY.
+-Parents process: Procesos creados por el usuario en el terminal.
+-Child process: Son procesos creados por otros procesos. Todos los child tienen un parent.
+-Orphan process: Cuando un proceso parent termina de ejecutarse antes que el hijo, el child se convierte en orphan.
+-Zombie process: Los zombies son procesos que han sido terminados o cancelados pero siguen apareciendo en la lista de procesos. Estos tienen un consumo de CPU de 0.
+Para saber si qué proceso es cual, debo mirar el PID. El Process ID es único para cada uno. PPID me muestra el Process ID del Parent.
+
+Para setear una contraseña root tenemos que correr el comando: sudo passwd root.
