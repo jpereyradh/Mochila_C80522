@@ -1,0 +1,29 @@
+ip con vpn: 77.111.246.40 ubicacion USA
+ip sin vpn 190..216.xx.xx ubicacion casi por mi pueblo
+ip en tor 185.129.62.62  ubicacion desconocida 
+
+1 no no son iguales , la vpn es de una ubicacion de estados unidos que me brinda
+ la ubicacion sin vpn es la publica mia que me brinda mi router
+ la ip de tor es un nodo que te brindan ellos
+
+2 con vpn no se puede ver el video ya que esta bloqueado en mi localidad,
+ y con vpn si se puede ver porque seria como que si estoy conectado directo 
+desde estados unidos, 
+
+3 tor nos brindo una ip 185.129.62.62 pero su ubicacion es anonyma
+
+4, test de velocidad : sin vpn 570kbps  ping88ms 
+	test de velocidad en tor: latencia 772 y velocidad 200kbps
+	test de velocidad con Vpn ping 585 velocidad de descarga 1mbps
+    
+
+5. las velocidades son diferentes porque sin vpn es mi ip publica mia y me conecto directo a internet 
+	con vpn me conecto primero a otra ip a traves de un tunel en este caso a USA y de ahi accedo a internet y por eso la velocidad baja muchisimo 
+    y con Tor por el motivo de los nodos por el recorrido que  hace mi envio se demora muchiiiisimo, 
+
+6	es el tiempo que tarda en recibir mi paquete el servidor y devolverme una respuesta
+7. si si varia por el recorrido que tiene que hacer mi paquete para poder llegar a destino   
+
+
+
+
