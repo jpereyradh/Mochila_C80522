@@ -1,0 +1,6 @@
+Respuestas:
+1) El directorio db quedó Untracked porque estaba vacío y git nunca lo tomó como un archivo para tener en Stage
+2) No, no se guardó nada. Directamente no se generó otro commit ya que no había cambios con respecto al anterior. Deberíamos haber agregado el archivo que modificamos y agregado la carpeta db. Una vez hecho sí hubieramos podido hacer el commit.
+3) Creemos que el nombre del Commit no estaría tan mal. El desarrollador ha guardado los cambios importantes que había querido guardar antes. Podemos pensar que está bien decir "parte del proyecto" porque archivos como config.js no han sufrido cambios con respecto a lo que ya estaba en el commit anterior.
+4) El comando Restore puede ser utilizado para volver a tener un archivo que borramos localmente pero que teníamos en el commit anterior; o también para volver a la versión anterior de un archivo que omdificamos localmente y queremos volver a tener como antes. 
+5) En este paso no se realizó el commit. La consola nos dice que no se añadieron los cambios al commit porque no estaban staged. Cuando modificamos un archivo, tenemos que volver a añadirlo con "git add". Cuando lo queremos borrar, tenemos que hacer "git rm". Si hacemos solamente "rm <file>" lo estamos borrando de nuestro working directory pero sigue estando en el commit que hicimos antes.

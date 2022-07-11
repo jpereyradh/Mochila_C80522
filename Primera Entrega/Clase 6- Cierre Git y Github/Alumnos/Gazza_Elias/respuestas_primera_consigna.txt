@@ -1,0 +1,10 @@
+a- ¿Quién inventó el sistema de control de version Git y por que?
+El sistema de contro de versiones git fue creado por Linus Torvalds en el 2005. Lo hizo así para poder desarrollar el kernell de Linux y poder colaborar con otros desarrolladores que iban a contribuír con ese trabajo inicial.
+
+b- ¿A quién pertenece actualmente GitHub y por qué?
+Github es el proveedor de alojamiento para software de desarrollo y que usa el control de git. El actual dueño es Microsoft, desde 2018.
+Creemos que esta es una estrategia para acercarse al mundo del desarrollo de software libre y mejorar el punto de vista de los desarrolladores. Es también para pertenecer a la comunidad más grande de desarrollo del mundo.
+
+
+c- ¿Hay otra forma que no sea la terminal para trabajar en Github?
+Además de trabajar por línea de comandos, se puede trabajar con una interfaz gráfica utilizando la aplicación GitHub for Windows o GitHub for Mac. Además de la aplicación nativa de GitHub, hay otros clientes como Sublime, gitg y SmartGit.
