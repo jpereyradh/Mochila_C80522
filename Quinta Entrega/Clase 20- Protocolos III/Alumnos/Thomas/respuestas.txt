@@ -1,0 +1,16 @@
+ip 181.105.18.180
+opera 77.111.246.40
+onion 107.189.28.84
+
+No, son todas diferentes.
+No, porque no esta disponible para mi pais.
+Pude verlo, porque al activar el vpn me da acesso a navegar como si estuviera en el mismo pais del video.
+No pude localizar la ip desde tor
+
+sin VPN bajada 57 subida 58 PING 9
+con VPN opera bajada 0.9 subida 9,42 PING 397
+con VPN tor bajada 12,97 subida 7,81 PING 500
+
+Si,Cuando hacemos uso de una conexión VPN, nuestro tráfico en vez de viajar directamente desde nuestro ordenador al destino, sufre un desvío y se ve afectado por diferentes retardos y saturaciones que hacen que la velocidad se reduzca drásticamente.
+Es la medida que se ocupa para medir la latencia en milisegundos
+Si, Una VPN aumenta su ping porque agrega pasos adicionales al tráfico de Internet que llega a su destino, lo que lo hace más largo y complicado.
