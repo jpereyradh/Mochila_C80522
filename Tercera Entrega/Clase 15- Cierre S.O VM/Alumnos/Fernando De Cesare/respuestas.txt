@@ -1,0 +1,5 @@
+1- porque al compilar y/o interpretar el codigo, este es traducido a un lenguaje entendido por el sistema operativo de la maquina con que se hace, y puede que otro sistema diferente no sea capaz de entenderlo
+2- Soporta GNU/Linux, Mac OS/2 Warp, genode, Windows y Solaris/OpenSolaris y dentro de ellos es posible virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD OS/2 Warp, Windows, Solaris MS-DOS, Genode y muchos mas.
+3- Es un proceso que crea y ejecuta maquinas virtuales, es decir, permite que un ordenador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el pocesamiento
+4- Las maquinas virtuales se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicacion de forma separada. De este modo, si una de ellas falla, no afectara al funcionamiento del resto.
+ 
