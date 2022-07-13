@@ -1,0 +1,16 @@
+Linea temporal de la historia de la informatica:
+
+El abaco ano 1122 a.C China : Instumento sencillo para realizar operaciones matematicas
+Invento de la Pascalina francia Ano 1642 d.C
+Joseph Jacquard - Tarjetas perforadas Ano 1801 d.C Francia
+Intento de creacion de la primera computadora Ano 1833-1842 - Gran Bretana
+Primer algoritmo por Ada Lovelace anos 1833 y 1842 - Gran Bretana
+Alan Turing - Maquina de Turing año 1936 Reino Unido
+Las primeras programadoras "Las chicas del refrigerador" 1943
+Von Neumann - Arquitectura de una computadora ano 1945 Hungria
+40s:Primera generacion
+60s: Transistor - chip
+70s: Microchip
+80s:Windows apple linux
+Actualidad: Era cognitiva
+

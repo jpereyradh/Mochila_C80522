@@ -1,0 +1,2 @@
+La interfaz de usuario es un medio visual que combina una serie de controles y elementos que permiten a un usuario comunicarse e interactuar con un dispositivo electrónico.
+

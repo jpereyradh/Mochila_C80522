@@ -1,0 +1,4 @@
+VSCode es un IDE. Un conjunto de herramientas para facilitarnos la creación y desarrollo de nuestros programas o aplicaciones.
+
+Git Bash es una terminal que se utiliza como interfaz con un sistema operativo mediante comandos escritos (CLI).
+
