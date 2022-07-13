@@ -1,0 +1,25 @@
+¿Las ip públicas son las mismas? ¿por qué?
+No, son distintas. En el navegador sin VPN y sin TOR la es 191.98.223.44
+Con VPN es 77.111.246.40
+Con TOR es 185.130.44.108
+No son iguales por que las redes te conectan a distintos servidores
+
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo,
+¿que es lo que sucedió?¿Por qué?
+No, no se puede ver sin la VPN. Por que el servidor tiene una restriccion de pais.
+
+Utilizando Tor ¿pudimos localizar la IP ? 
+No, no se puede localizar
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+En el navegador sin VPN y sin TOR la velocidad es 24Mbps bajada y 9Mbps de subida
+Con VPN es 1Mbps bajada y 8 Mbps subida
+Con TOR es 10Mbps de bajada y 1Mbps de subida
+Esto sucede por la cantidad de saltos en servidores y nodos.
+
+¿Que significa el valor del ping?
+Representa el tiempo de respuesta en la pc y el servidor
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Si, varia por la cantidad de saltos que tiene que dar la señal
