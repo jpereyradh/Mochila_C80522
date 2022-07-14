@@ -1,0 +1,4 @@
+1) Troyano y Backdoor
+2) Empieza a traves de un correo electronico malicioso que se usa como mecanismo de distribucion y de esa manera se propaga.
+3) Si, Troyano y Backdoor. Ambas capaces de controlar en conjunto totalmente la maquina.
+4) Con un formateo del equipo, reiniciamos el estado base del mismo contando solo con los programas que ejecutan por defecto a nuestro sistema operativo.
