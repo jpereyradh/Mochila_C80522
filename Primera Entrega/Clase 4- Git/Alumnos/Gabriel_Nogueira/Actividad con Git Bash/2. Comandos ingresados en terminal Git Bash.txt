@@ -1,0 +1,58 @@
+Actividad 1
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~ (main)
+$ mkdir informes
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~ (main)
+$ cd informes
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~/informes (main)
+$ touch informeAnual.xls
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~/informes (main)
+$ ls
+informeAnual.xls
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~/informes (main)
+$
+
+Actividad 2
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~/informes (main)
+$ mkdir auditoria
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~/informes (main)
+$ touch auditoria.xls
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~/informes (main)
+$ touch reporteConsolidado.xls
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~/informes (main)
+$ ls
+auditoria/  auditoria.xls  informeAnual.xls  reporteConsolidado.xls
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~/informes (main)
+$
+
+Actividad 3
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~/informes (main)
+$ mv auditoria.xls auditoria
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~/informes (main)
+$ cd auditoria
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~/informes/auditoria (main)
+$ ls
+auditoria.xls
+
+carlo@LAPTOP-L0SO83D9 MINGW64 ~/informes/auditoria (main)
+$
+
+
+
+
+
+
+
+

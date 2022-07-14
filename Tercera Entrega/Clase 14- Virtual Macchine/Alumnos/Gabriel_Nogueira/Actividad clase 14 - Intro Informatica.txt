@@ -1,0 +1,11 @@
+Grupo 7
+
+Lua:	1. Interpretado
+	2. Lua se usa para la programación procedimental general. Por lo tanto, dentro de los paradigmas de programación, es considerado perteneciente a los lenguajes de scripting imperativos.
+	3. Love2D, ZeroBrane Studio. Este IDE está construido con Lua, es Open Source y tiene versiones para Windows, Mac OS X y GNU/Linux.
+
+RStudio 1. Es un IDE 
+	2. Dedicado a la computación estadística y gráficos. 
+	3. Incluye una consola, editor de sintaxis que apoya la ejecución de código, así como herramientas para el trazado, la depuración y la gestión del espacio de trabajo.
+
+

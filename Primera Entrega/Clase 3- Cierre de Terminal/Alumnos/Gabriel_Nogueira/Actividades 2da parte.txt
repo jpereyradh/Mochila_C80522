@@ -1,0 +1,83 @@
+punto 2
+
+$ mv ./Terror/"Yo antes de ti.xls" Romanticas
+
+$ mv ./Terror/"We will rock you.js" Comedia
+
+$ mv ./Terror/"Que paso ayer.pdf" Comedia
+
+$ mv ./Terror/"La dama y el bagavundo.png" Infantiles
+
+$ mv ./Romanticas/"Pocahontas.jpg" Infantiles
+
+$ mv ./Romanticas/"Los vengadores.js" Accion
+
+$ mv ./Romanticas/"La mascara.js" Comedia
+
+$ mv ./Romanticas/"Annabelle.js" Terror
+
+$ mv ./Infantiles/"Titanic.jpg" Romanticas
+
+$ mv ./Infantiles/"Rapido y furioso.pdf" Accion
+
+$ mv ./Infantiles/"El juego del miedo.xls" Terror
+
+$ mv ./Comedia/"Orgullo y prejuicio.txt" Romanticas
+
+$ mv ./Comedia/"Mision imposible.png" Accion
+
+$ mv ./Comedia/Madagaskar.js Infantiles
+
+$ mv ./Comedia/IT.xls Terror
+
+$ mv ./Accion/Cars.jpg Infantiles
+
+$ mv ./Accion/"Diario de una pasion.js" Romanticas
+
+$ mv ./Accion/"El hexorcista.xls" Terror
+
+punto 3
+
+$ cd ..
+
+$ mv ./Peliculas/Terror/"El hexorcista.xls" ./Peliculas/Terror/"El exorcista.xls"
+
+$ mv ./Peliculas/Infantiles/Madagaskar.js ./Peliculas/Infantiles/Madagascar.js
+
+$ mv ./Peliculas/Infantiles/"La dama y el bagavundo.png" ./Peliculas/Infantiles/"La dama y el vagabundo.png"
+
+$ mv ./Peliculas/Infantiles/"Intenzamente.txt" ./Peliculas/Infantiles/"Intensamente.txt"
+
+punto 4
+
+$ rm ./Peliculas/Comedia/"We will rock you.js" ./Peliculas/Accion/"Smooth criminal.txt"
+
+Punto 5
+
+$ touch ./Peliculas/Accion/prueba2/noBorrar.js
+
+Punto 6
+
+$ cd Peliculas
+
+$ mv ./Accion/prueba2/noBorrar.js ./Romanticas/prueba
+
+Punto 7
+
+$ cd ..
+
+$ touch camadax.txt
+
+Punto 8
+
+$ cd Peliculas
+
+$ mv ./Terror/IT.xls ./Infantiles
+
+Punto 9
+
+$ rm ../camadax.txt
+
+Punto 10
+
+$ rm -r ./Romanticas/prueba
