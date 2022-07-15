@@ -1,0 +1,54 @@
+Clase 20
+
+-Direccion IP sin vpn: 190.120.124.48
+Velocidad de internet:
+DESCARGA Mbps
+13.96
+ SUBIDA Mbps
+11.22
+Ping ms  7  96  16
+
+-Direccion IP con vpn: 77.111.246.40
+Geolocalizacion: 
+País	United States
+Ciudad	
+Latitud	37.750999450684
+Longitud	-97.821998596191
+ISP	Opera Mini Proxy
+Velocidad de internet:
+DESCARGA Mbps
+1.17
+ SUBIDA Mbps
+10.92
+Ping ms  195  199  206
+
+-Direccion IP con brave: 199.249.230.148
+Geolocalizacion:
+País	Anonymous Proxy
+Ciudad	
+Latitud	0
+Longitud	0
+ISP	Quintex Alliance Consulting
+
+Velocidad de internet:
+DESCARGA Mbps
+7.45
+ SUBIDA Mbps
+7.75
+Ping ms  464  653  682
+
+         PREGUNTAS
+1. ¿Las ip públicas son las mismas? ¿por qué?
+No, las IP cambian, porque VPN hace de intermediario y nos da una IP desde USA, los IP desde BRAVE tambien cambia ya que nos da la IP del ultimo nodo como anonimato.
+
+2. Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo,
+¿que es lo que sucedió?¿Por qué?
+No se puede ver sin VPN porque en nuestro pais esta bloqueado ese enlace.
+3. Utilizando Tor ¿pudimos localizar la IP ? 
+No se puede localizar la IP, aparece como anonima.
+---------------------------------------------------------
+4. ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+5. ¿Que significa el valor del ping?
+
+6. El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?

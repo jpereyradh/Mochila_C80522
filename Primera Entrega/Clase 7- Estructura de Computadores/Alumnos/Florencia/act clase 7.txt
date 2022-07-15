@@ -1,0 +1,3 @@
+Matilda: amd ryzen 5 3600
+Hermano menor: intel i3 3230
+Hermano mayor: amd a8 9600
